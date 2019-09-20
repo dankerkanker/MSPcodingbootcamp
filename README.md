@@ -4,7 +4,7 @@ This is the repository for the **Coding Bootcamp 2019** programming workshop org
 
 ## Overview
 
-This bootcamp is intended to provide the audience with a foundation in using some important tools in the industry.
+This bootcamp is intended to provide the attendees a flavour of a few famous practices in the Computer Science industry.
 
 
 ## Instructors
