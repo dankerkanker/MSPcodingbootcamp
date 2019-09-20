@@ -1,6 +1,6 @@
 # Coding Bootcamp
 
-This is the repository for the **Coding Bootcamp** programming workshop organized by Microsoft Student Partners
+This is the repository for the **Coding Bootcamp 2019** programming workshop organized by **Microsoft Student Partners**
 
 ## Overview
 
